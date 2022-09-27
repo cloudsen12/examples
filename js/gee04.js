@@ -1,4 +1,4 @@
-var regions = ee.FeatureCollection("users/csaybar/cloudsen12")
+var regions = ee.FeatureCollection("projects/sat-io/open-datasets/cloudsen12/footprint")
 
 var palette = ee.Dictionary({
   'high': 'red',
