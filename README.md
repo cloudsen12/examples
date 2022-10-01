@@ -6,7 +6,7 @@
 
 <h2 align="center">A global dataset for cloud and cloud shadow semantic understanding</h2>
 
-https://cloudsen12.github.io/examples
+This repo has the cloudSEN12 tutorials showed in https://cloudsen12.github.io/examples.html
 
 ## Citation 
 
